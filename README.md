@@ -1,1 +1,1 @@
-This is Ecommerce template !
+This is Ecommerce template with html and css
